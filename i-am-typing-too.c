@@ -68,7 +68,7 @@ static PurplePluginInfo info =
   "Show that you are also typing whenever someone is typing to you.",
   "Send PURPLE_TYPING and PURPLE_NOT_TYPING states upon receiving buddy-typing and buddy-typing-stopped signals.",
   "Aleksey Yeschenko <aleksey@yeschenko.com>",
-  "http://github.com/",
+  "http://github.com/iamaleksey/pidgin-i-am-typing-too",
 
   plugin_load,
   plugin_unload,
